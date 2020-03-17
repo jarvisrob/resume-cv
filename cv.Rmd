@@ -31,6 +31,8 @@ Email: me@there.com
 
 Phone: +61 4xx xxx xxx
 
+Webpage: me.net
+
 LinkedIn: linkedin.com/in/jarvisrob
 
 GitHub: xxxxxx
@@ -60,23 +62,46 @@ Summary about me goes here.
 Professional history
 ---------------------------------------
 
-### Telstra Purple (formerly Readify)
+### Lead Consultant, Data Science
 
-Lead Consultant, Data Science
+Telstra Purple (formerly Readify)
 
-Melbourne, Australia
+N/A
+
+`r lubridate::year(Sys.Date())` - 2018
+
+Content about the position goes here
+
+
+### Senior Analyst, Data Science
+
+Readify
+
+N/A
 
 2017
 
 Content about the position goes here
 
-### Defence Science and Technology, Department of Defence
 
-Research Scientist and Engineer
+### Research Scientist and Engineer
 
-Melbourne, Australia
+Defence Science and Technology, Department of Defence
 
-2007 - 2017
+N/A
+
+2017 - 2007
+
+Content about the position goes here
+
+
+### University Maths Tutor for Engineering and Science
+
+Monash University
+
+N/A
+
+2006 - 2005
 
 Content about the position goes here
 
@@ -85,23 +110,23 @@ Content about the position goes here
 Education
 ---------------------------------------
 
-### Monash University
+### Bachelor of Engineering (First Class Honours) in Electrical and Computer Systems Engineering
 
-Bachelor of Electrical and Computer Systems Engineering (First Class Honours)
+Monash University
 
 Melbourne, Australia
 
-2002 - 2006
+2006 - 2002
 
 Content about the degree goes here
 
-### Monash University
+### Bachelor of Science in Mathematics and Physics
 
-Bachelor of Science, majoring in Mathematics and Physics
+Monash University
 
 Melbourne, Australia
 
-2002 - 2006
+2006 - 2002
 
 Content about the degree goes here
 
