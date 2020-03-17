@@ -1,0 +1,132 @@
+---
+title: "Rob Jarvis's CV"
+author: Rob Jarvis
+date: "`r Sys.Date()`"
+output: pagedown::html_resume
+---
+
+```{r setup, include=FALSE}
+# Using the {pagedown} package
+# https://pagedown.rbind.io/#resume
+# 
+# Inspired by Nick Strayer: https://github.com/nstrayer/cv
+
+knitr::opts_chunk$set(
+  results = "asis",
+  echo = FALSE
+)
+
+library(glue)
+library(tidyverse)
+```
+
+
+Aside
+=======================================
+
+
+Contacts
+---------------------------------------
+Email: me@there.com
+
+Phone: +61 4xx xxx xxx
+
+LinkedIn: linkedin.com/in/jarvisrob
+
+GitHub: xxxxxx
+
+Twitter: xxxxx
+
+
+Skills
+---------------------------------------
+Skills go here
+
+
+Something else
+---------------------------------------
+Maybe can put something else here ...
+
+
+Main
+=======================================
+
+
+Rob Jarvis {#title}
+---------------------------------------
+Summary about me goes here.
+
+
+Professional history
+---------------------------------------
+
+### Telstra Purple (formerly Readify)
+
+Lead Consultant, Data Science
+
+Melbourne, Australia
+
+2017
+
+Content about the position goes here
+
+### Defence Science and Technology, Department of Defence
+
+Research Scientist and Engineer
+
+Melbourne, Australia
+
+2007 - 2017
+
+Content about the position goes here
+
+
+
+Education
+---------------------------------------
+
+### Monash University
+
+Bachelor of Electrical and Computer Systems Engineering (First Class Honours)
+
+Melbourne, Australia
+
+2002 - 2006
+
+Content about the degree goes here
+
+### Monash University
+
+Bachelor of Science, majoring in Mathematics and Physics
+
+Melbourne, Australia
+
+2002 - 2006
+
+Content about the degree goes here
+
+
+Certifications
+---------------------------------------
+
+### Microsoft Professional Program for Data Science
+
+Microsoft edX
+
+N/A
+
+2019
+
+Content about the cert goes here
+
+### Professional Scrum Master I
+
+Scrum.org
+
+N/A
+
+2018
+
+Content about the cert goes here
+
+
