@@ -5,15 +5,17 @@ date: "`r Sys.Date()`"
 output: pagedown::html_resume
 ---
 
+
 ```{r setup, include=FALSE}
 # Using the {pagedown} package
 # https://pagedown.rbind.io/#resume
 # 
 # Inspired by Nick Strayer: https://github.com/nstrayer/cv
 
+# Chunk options: https://yihui.org/knitr/options/#chunk-options
 knitr::opts_chunk$set(
-  results = "asis",
-  echo = FALSE
+  echo = FALSE,         # Don't include any R source code in output
+  results = "asis"      # R code output written raw into doc, i.e. "as is"
 )
 
 library(glue)
@@ -59,7 +61,7 @@ Rob Jarvis {#title}
 Summary about me goes here.
 
 
-Professional history
+Professional experience
 ---------------------------------------
 
 ### Lead Consultant, Data Science
@@ -118,7 +120,14 @@ Melbourne, Australia
 
 2006 - 2002
 
-Content about the degree goes here
+Selected achievements and awards:
+
+- High Distinction average
+- Studied under a Sir John Monash Scholarship
+- Graham Beard Memorial Prize, overall excellence in Electrical and Computer Systems Engineering course, 2006
+- RS Components Award for Engineering Excellence, student with highest level of academic excellence, 2006
+- Multiple other awards in earlier years of study
+
 
 ### Bachelor of Science in Mathematics and Physics
 
@@ -128,7 +137,11 @@ Melbourne, Australia
 
 2006 - 2002
 
-Content about the degree goes here
+Selected achievements and awards:
+
+- High Distinction in every subject
+- Dean’s List Fellowship for Science, 2003, 2004 and 2005 (every year eligible)
+
 
 
 Certifications
