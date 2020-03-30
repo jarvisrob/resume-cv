@@ -1,5 +1,5 @@
 ---
-title: "Rob Jarvis's CV"
+title: "CV"
 author: Rob Jarvis
 date: "`r Sys.Date()`"
 output: pagedown::html_resume
@@ -29,17 +29,15 @@ Aside
 
 Contacts
 ---------------------------------------
-Email: me@there.com
-
 Phone: +61 4xx xxx xxx
 
-Webpage: me.net
+Email: me@there.com
 
 LinkedIn: linkedin.com/in/jarvisrob
 
-GitHub: xxxxxx
+GitHub: github.com/jarvisrob
 
-Twitter: xxxxx
+Twitter: @mrRobJarvis
 
 
 Skills
@@ -58,7 +56,22 @@ Main
 
 Rob Jarvis {#title}
 ---------------------------------------
-Summary about me goes here.
+
+
+
+Three years consulting in data science with Telstra Purple, which was formerly Readify. Ten years doing research in electrical engineering, building mathematical models of submarine power systems, at Defence Science and Technology, Department of Defence. In total, thirteen years doing analysis, applying mathematics, and building models to explain what has happened, predict what could happen, or advising how to act.
+
+Growing teams/capability
+Author and presenter
+
+High Distinction average in university studies. Bachelor of Engineering (First Class Honours) in Electrical and Computer Systems Engineering, and Bachelor of Science in Mathematics and Physics.
+
+
+
+
+
+
+Analytical thinker with nine years of experience in the application of engineering and scientific concepts to applied research problems and projects. Utilisation of electrical engineering, mathematics, statistics, and physics to model and predict system behaviours and to express the most relevant outcomes. Experienced in sensitivity analysis, optimisation, data analysis, control theory, and hardware-in-the-loop simulation. Conference author and presenter. Author on reports advising federal government and Department of Defence, predominantly on power and energy related aspects of Australia’s future submarine. 
 
 
 Professional experience
@@ -124,8 +137,8 @@ Selected achievements and awards:
 
 - High Distinction average
 - Studied under a Sir John Monash Scholarship
-- Graham Beard Memorial Prize, overall excellence in Electrical and Computer Systems Engineering course, 2006
-- RS Components Award for Engineering Excellence, student with highest level of academic excellence, 2006
+- Graham Beard Memorial Prize for overall excellence in Electrical and Computer Systems Engineering course, 2006
+- RS Components Award for Engineering Excellence for student with highest level of academic excellence, 2006
 - Multiple other awards in earlier years of study
 
 
@@ -140,7 +153,7 @@ Melbourne, Australia
 Selected achievements and awards:
 
 - High Distinction in every subject
-- Dean’s List Fellowship for Science, 2003, 2004 and 2005 (every year eligible)
+- Dean’s List Fellowship for Science every year eligible, 2003, 2004, 2005
 
 
 
