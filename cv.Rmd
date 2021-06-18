@@ -29,20 +29,23 @@ Aside
 
 Contacts
 ---------------------------------------
-Phone: +61 4xx xxx xxx
-
-Email: me@there.com
-
-LinkedIn: linkedin.com/in/jarvisrob
-
-GitHub: github.com/jarvisrob
-
-Twitter: @mrRobJarvis
+- Phone: +61 4xx xxx xxxx
+- Email: me@there.com
+- LinkedIn: linkedin.com/in/jarvisrob
+- GitHub: github.com/jarvisrob
+- Twitter: @mrRobJarvis
 
 
 Skills
 ---------------------------------------
-Skills go here
+- Data science
+- Consulting
+- Machine learning
+- Mathematical modelling
+- Agile methods
+- R, Python and SQL
+- Cloud
+
 
 
 Something else
@@ -56,22 +59,19 @@ Main
 
 Rob Jarvis {#title}
 ---------------------------------------
+Thirteen years in total building models, applying maths and analysing data to explain, predict and advise how to act. Ten years modelling and researching submarine power systems with Department of Defence. Followed by three years consulting in data science with Telstra Purple and Readify.
 
-
-
-Three years consulting in data science with Telstra Purple, which was formerly Readify. Ten years doing research in electrical engineering, building mathematical models of submarine power systems, at Defence Science and Technology, Department of Defence. In total, thirteen years doing analysis, applying mathematics, and building models to explain what has happened, predict what could happen, or advising how to act.
-
-Growing teams/capability
-Author and presenter
-
-High Distinction average in university studies. Bachelor of Engineering (First Class Honours) in Electrical and Computer Systems Engineering, and Bachelor of Science in Mathematics and Physics.
+Experience in growing teams and growing capabilities.
 
 
 
 
+Conference author and presenter. Author on reports advising federal government and Department of Defence, predominantly on power and energy related aspects of Australia’s future submarine. 
+
+High Distinction average in university studies. Bachelor of Engineering with first class honours in electrical and computer systems engineering. Bachelor of Science in mathematics and physics.
 
 
-Analytical thinker with nine years of experience in the application of engineering and scientific concepts to applied research problems and projects. Utilisation of electrical engineering, mathematics, statistics, and physics to model and predict system behaviours and to express the most relevant outcomes. Experienced in sensitivity analysis, optimisation, data analysis, control theory, and hardware-in-the-loop simulation. Conference author and presenter. Author on reports advising federal government and Department of Defence, predominantly on power and energy related aspects of Australia’s future submarine. 
+
 
 
 Professional experience
@@ -85,7 +85,34 @@ N/A
 
 `r lubridate::year(Sys.Date())` - 2018
 
-Content about the position goes here
+Consulitng and professional services in data science.
+
+Mainly focused on establishing emerging data practice and business both in data Victoria and nationally.
+
+- Educating the business on data and data science, and the role it plays in our professional services offerings
+- Leading teams and being the interface to customers and stakeholders
+- Teaching technical and professional skills
+
+
+• Educating the business on data science and the role it plays in our offerings
+• Leading teams and being the interface to our customer
+• Teaching technical and professional skills
+• Helping career growth, guiding, conducting job retrospectives
+• Recruiting new consultants and graduates
+• Member of the Victorian leadership group, working on strategy, assisting in operations, being conduit between executives and consultants
+• Member of national data leaders' forum
+• Pre-sales, meeting customers, writing proposals and tender responses, estimating effort, drafting of statements of work
+
+Highlights:
+• Machine learning model of housing prices. Presented to audience at a large customer to explain machine learning and demonstrate our capability. Using Azure Machine Learning tools, Docker, R and Python.
+
+• Data preparation and analysis for a government department. Processing data collected from Telstra antennas, we estimate population locations and movements. Data aggregated to customer's specifications. Using Spark, Hadoop HDFS, Scala, Bash and Power BI.
+
+• Consulting for a manufacturing line. Found data spread across line and business that could be joined to track materials and equipment settings for each run. Proposed building a model from the data, finding the important parameters in determining quality, and recommending ranges for those parameters.
+
+• Tender response for Ambulance Victoria. Designed data architecture in Azure, from ingestion, through data lake and warehouse and into machine learning models. Presented architecture to tender review team.
+
+- Recruitment
 
 
 ### Senior Analyst, Data Science
@@ -96,7 +123,11 @@ N/A
 
 2017
 
-Content about the position goes here
+Career change from engineering into data science. First data-specific hire in many years—and the first ever data scientist—in Victoria.
+
+• Modelling of business efficiency for electricity companies. Econometric modelling consistent with how they're evaluated by market regulator. Using R and Shiny.
+
+- Project Batman
 
 
 ### Research Scientist and Engineer
@@ -110,6 +141,17 @@ N/A
 Content about the position goes here
 
 
+Electrical engineering and mathematical analysis forecasting the behaviour of power and energy systems and the consequences for the performance of naval surface ships and submarines.
+•	Creation of numerical models, algorithms, and terminology for the simulation of energy flow through a submarine; shared widely within the organisation as the framework for modelling and evaluating submarine performance on metrics such as range and endurance
+•	Conference presenter and author of accompanying papers on modelling and simulation topics such as the application of statistical sensitivity analysis, genetic algorithms, multi-objective optimisation techniques, and hardware-in-the-loop simulation
+•	Leader of team crafting a state-of-the-art research program into ‘power hardware-in-the-loop systems’, developing methods to integrate real-time simulations of virtual systems with physical items of hardware under test; obtaining and investing over $5 million of funding into equipment, infrastructure, and university collaborations
+•	Author on multiple reports advising government, predominantly on aspects of Australia’s future submarine, undertaking numerical modelling for committees that developed the Defence White Papers of 2009 and 2013, and coordinating a technical risk assessment for Federal Cabinet
+•	Selection for the internationally-recognised Postgraduate Submarine Design and Acquisition Course at the University College London, including being posted to London for nine weeks
+•	Negotiation, establishment, and management of ongoing research partnership with the Queensland University of Technology
+•	Deputy laboratory manager charged with workplace health and safety risk assessments, having developed the risk assessment template now recommended for use throughout the division
+•	Leader in rewriting organisational policy on electrical safety, negotiating with other committee members, and adapting industry best-practices to meet the unique needs of a research organisation
+
+
 ### University Maths Tutor for Engineering and Science
 
 Monash University
@@ -118,8 +160,9 @@ N/A
 
 2006 - 2005
 
-Content about the position goes here
-
+Conducted tutorial classes for students in undergraduate mathematics subjects:
+• "Statistics and Integral Transforms for Engineering" (third-year engineering)
+• "Multi-variable Calculus" (second-year science)
 
 
 Education
